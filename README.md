@@ -1,7 +1,7 @@
 # delphi-run
 Usando linha de comando para compilar e executar projeto Delphi.
 
-![teste-delphi-run](assets\teste-delhpi-run.gif)
+![teste-delphi-run](./assets/teste-delhpi-run.gif)
 
 ## Instalação
 Copie o arquivo `delphi-run.bat` para sua pasta `C:\Windows\System32` e pronto.
